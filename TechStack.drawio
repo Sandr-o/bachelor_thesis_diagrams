@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T07:00:18.647Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" version="21.2.1" etag="Rhjh43uXrlIS1xU84srN" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-26T07:03:24.485Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="MBxf9Wbp9199JLewGXwc" version="21.2.1" type="github">
   <diagram name="Seite-1" id="EHpXEGn98MhXjlWumOCO">
-    <mxGraphModel>
+    <mxGraphModel dx="988" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XIuJrTH9jcuLKCDRD7nm-1" value="NGINX" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=0;shadow=1;gradientColor=#97d077;fixDash=0;snapToPoint=0;portConstraintRotation=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XIuJrTH9jcuLKCDRD7nm-2" value="&lt;div&gt;RASA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=0;shadow=1;gradientColor=#97d077;fixDash=0;snapToPoint=0;portConstraintRotation=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XIuJrTH9jcuLKCDRD7nm-4" value="MongoDB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=0;shadow=1;gradientColor=#97d077;fixDash=0;snapToPoint=0;portConstraintRotation=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XIuJrTH9jcuLKCDRD7nm-5" value="Spacy" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=0;shadow=1;gradientColor=#97d077;fixDash=0;snapToPoint=0;portConstraintRotation=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XIuJrTH9jcuLKCDRD7nm-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="XIuJrTH9jcuLKCDRD7nm-4" target="XIuJrTH9jcuLKCDRD7nm-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="350" as="sourcePoint" />
+            <mxPoint x="240" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XIuJrTH9jcuLKCDRD7nm-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="XIuJrTH9jcuLKCDRD7nm-2" target="XIuJrTH9jcuLKCDRD7nm-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="410" as="sourcePoint" />
+            <mxPoint x="610" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XIuJrTH9jcuLKCDRD7nm-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="XIuJrTH9jcuLKCDRD7nm-5" target="XIuJrTH9jcuLKCDRD7nm-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="490" as="sourcePoint" />
+            <mxPoint x="520" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
