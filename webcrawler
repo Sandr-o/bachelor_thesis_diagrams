@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T07:04:34.029Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="SvhreggGkziUM-ycVew2" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T07:05:01.704Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="9iLdGk6Qo2oG819tYXgE" version="21.3.2" type="github">
   <diagram name="Seite-1" id="QiTNJ9Cw5joYot0RiQwZ">
     <mxGraphModel dx="2035" dy="1142" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,7 +51,7 @@
         <mxCell id="L4MOUnHJxA3rlDnnS-a4-25" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/css-vol-2/24/merge-vertical-128.png" parent="L4MOUnHJxA3rlDnnS-a4-33" vertex="1">
           <mxGeometry x="1177.9422580645162" y="50.89773722627734" width="42.25806451612903" height="41.25806451612903" as="geometry" />
         </mxCell>
-        <mxCell id="L4MOUnHJxA3rlDnnS-a4-27" value="trainiertes Modell" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#067F68;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;" parent="L4MOUnHJxA3rlDnnS-a4-33" vertex="1">
+        <mxCell id="L4MOUnHJxA3rlDnnS-a4-27" value="trainiertes Modell" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#067F68;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=16;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;" parent="L4MOUnHJxA3rlDnnS-a4-33" vertex="1">
           <mxGeometry x="940.2296774193547" y="559.9972992700729" width="105.64516129032258" height="105.64516129032258" as="geometry" />
         </mxCell>
         <mxCell id="L4MOUnHJxA3rlDnnS-a4-28" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;new_&lt;font style=&quot;font-size: 16px;&quot;&gt;domain.yml&lt;/font&gt;&lt;/font&gt;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.document;fontSize=16;" parent="L4MOUnHJxA3rlDnnS-a4-33" vertex="1">
